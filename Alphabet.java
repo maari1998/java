@@ -15,7 +15,7 @@ class Main
         }
         else
         {
-            System.out.print("invalid");
+            System.out.print("No");
         }
     }
 }
