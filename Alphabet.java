@@ -15,7 +15,7 @@ class Main
         }
         else
         {
-            System.out.print(ch + " is not an Alphabet");
+            System.out.print("invalid");
         }
     }
 }
